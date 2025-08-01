@@ -1,0 +1,18 @@
+# Ignore Python temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore editor files
+*.swp
+*.swo
+*.swn
